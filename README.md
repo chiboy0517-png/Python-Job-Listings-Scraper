@@ -1,10 +1,10 @@
-Project name: Job scrapper
+# Project name: Job scrapper
 
 Idea from: https://roadmap.sh/projects/job-listings-scraper
 
-video URL: https://youtu.be/LvnEVu1WfFw
+#### video URL: https://youtu.be/LvnEVu1WfFw
 
-Description:
+#### Description:
     This code use the fake Job list for training the ability to do the scrapper. In here I have learned how to use request, and csv libraries to search and write the Job it has, from the website.
 
 TODO:
